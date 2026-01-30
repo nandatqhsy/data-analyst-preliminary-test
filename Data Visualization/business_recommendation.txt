@@ -1,0 +1,7 @@
+Berdasarkan grafik cohort retention, terlihat bahwa banyak pengguna hanya melakukan pembelian pada bulan pertama dan tidak melanjutkan pembelian di bulan berikutnya. Penurunan jumlah pengguna paling besar terjadi pada bulan kedua setelah pembelian pertama.
+Selain itu, pengguna yang bergabung lebih awal cenderung memiliki tingkat loyalitas yang lebih tinggi dibandingkan pengguna yang baru bergabung.
+
+Rekomendasi:
+1. Perusahaan dapat memberikan promo lanjutan kepada pengguna yang tidak melakukan pembelian ulang dalam 30 hari.
+2. Mengirimkan pengingat atau penawaran paket langganan untuk mendorong pembelian berulang.
+3. Memberikan rekomendasi menu yang disesuaikan dengan riwayat pembelian pengguna agar lebih relevan dan menarik.
