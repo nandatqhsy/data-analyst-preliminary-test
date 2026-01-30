@@ -1,2 +1,2 @@
-RDBMS: PostgreSQL
-Version: 14
+RDBMS: MySQL
+Version: 8.0.30 
