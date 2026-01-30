@@ -1,0 +1,7 @@
+Berdasarkan analisis total jumlah pembelian per pengguna, data menunjukkan bahwa sebagian besar pengguna melakukan pembelian dalam jumlah kecil, sementara sebagian kecil pengguna melakukan pembelian dalam jumlah yang lebih besar.
+Pola ini sesuai dengan karakteristik data bertipe hitungan (count data), sehingga distribusi Poisson dapat digunakan. Namun, karena terdapat perbedaan yang cukup besar antara pengguna dengan pembelian rendah dan tinggi, distribusi Negative Binomial lebih sesuai untuk menggambarkan variasi data tersebut.
+
+Rekomendasi Bisnis:
+1. Perusahaan dapat memberikan program loyalitas kepada pengguna dengan jumlah pembelian tinggi karena mereka memberikan kontribusi besar terhadap penjualan.
+2. Pengguna dengan pembelian rendah dapat didorong melalui promo bundling atau diskon untuk meningkatkan jumlah pembelian.
+3. Pola distribusi ini dapat dimanfaatkan untuk memprediksi permintaan dan membantu perencanaan stok makanan.
