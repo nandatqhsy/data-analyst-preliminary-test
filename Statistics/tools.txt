@@ -1,0 +1,3 @@
+Language: Python
+Version: 3.10
+Libraries: pandas, numpy, scipy, matplotlib
